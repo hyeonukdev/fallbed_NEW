@@ -1,0 +1,661 @@
+C:\Users\user\pjkim\Loadcell\SPRS\bin\Release\SPRS.exe.config
+C:\Users\user\pjkim\Loadcell\SPRS\bin\Release\SPRS.exe
+C:\Users\user\pjkim\Loadcell\SPRS\bin\Release\SPRS.pdb
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Release\SPRS.g.resources
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Release\SPRS.exe
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Release\SPRS.pdb
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\Owner\Desktop\pjkim\Loadcell\SPRS\bin\Release\SPRS.exe.config
+C:\Users\Owner\Desktop\pjkim\Loadcell\SPRS\bin\Release\SPRS.exe
+C:\Users\Owner\Desktop\pjkim\Loadcell\SPRS\bin\Release\SPRS.pdb
+C:\Users\Owner\Desktop\pjkim\Loadcell\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\Owner\Desktop\pjkim\Loadcell\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\Owner\Desktop\pjkim\Loadcell\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\Owner\Desktop\pjkim\Loadcell\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\Owner\Desktop\pjkim\Loadcell\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\Owner\Desktop\pjkim\Loadcell\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\Owner\Desktop\pjkim\Loadcell\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\Owner\Desktop\pjkim\Loadcell\SPRS\obj\Release\SPRS.g.resources
+C:\Users\Owner\Desktop\pjkim\Loadcell\SPRS\obj\Release\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\pjkim\Loadcell\SPRS\obj\Release\SPRS.exe
+C:\Users\Owner\Desktop\pjkim\Loadcell\SPRS\obj\Release\SPRS.pdb
+C:\Users\Owner\Desktop\pjkim\Loadcell\SPRS\obj\Release\SPRS.csprojAssemblyReference.cache
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Release\SPRS.csprojAssemblyReference.cache
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Release\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\pjkim\Loadcell\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\Owner\Desktop\pjkim\Loadcell\SPRS\obj\Release\DotButton.baml
+C:\Users\Owner\Desktop\pjkim\Loadcell\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\Owner\Desktop\pjkim\Loadcell\SPRS\obj\Release\DotButton.g.cs
+C:\Users\Owner\Desktop\pjkim\Loadcell\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Owner\Desktop\pjkim\Loadcell\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Release\DotButton.baml
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Release\DotButton.g.cs
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\gsw09\Desktop\bed\Loadcell\SPRS\bin\Release\SPRS.exe.config
+C:\Users\gsw09\Desktop\bed\Loadcell\SPRS\obj\Release\SPRS.exe
+C:\Users\gsw09\Desktop\bed\Loadcell\SPRS\obj\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\bed\Loadcell\SPRS\bin\Release\SPRS.exe
+C:\Users\gsw09\Desktop\bed\Loadcell\SPRS\bin\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\bed\Loadcell\SPRS\obj\Release\SPRS.csprojResolveAssemblyReference.cache
+C:\Users\gsw09\Desktop\bed\Loadcell\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\gsw09\Desktop\bed\Loadcell\SPRS\obj\Release\DotButton.baml
+C:\Users\gsw09\Desktop\bed\Loadcell\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\gsw09\Desktop\bed\Loadcell\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\gsw09\Desktop\bed\Loadcell\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\gsw09\Desktop\bed\Loadcell\SPRS\obj\Release\DotButton.g.cs
+C:\Users\gsw09\Desktop\bed\Loadcell\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\gsw09\Desktop\bed\Loadcell\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\gsw09\Desktop\bed\Loadcell\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\gsw09\Desktop\bed\Loadcell\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\gsw09\Desktop\bed\Loadcell\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\gsw09\Desktop\bed\Loadcell\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\gsw09\Desktop\bed\Loadcell\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\gsw09\Desktop\bed\Loadcell\SPRS\obj\Release\SPRS.g.resources
+C:\Users\gsw09\Desktop\bed_label\Loadcell\SPRS\bin\Release\SPRS.exe.config
+C:\Users\gsw09\Desktop\bed_label\Loadcell\SPRS\obj\Release\SPRS.exe
+C:\Users\gsw09\Desktop\bed_label\Loadcell\SPRS\obj\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\bed_label\Loadcell\SPRS\bin\Release\SPRS.exe
+C:\Users\gsw09\Desktop\bed_label\Loadcell\SPRS\bin\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\bed_label\Loadcell\SPRS\obj\Release\SPRS.csprojResolveAssemblyReference.cache
+C:\Users\gsw09\Desktop\bed_label\Loadcell\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\gsw09\Desktop\bed_label\Loadcell\SPRS\obj\Release\DotButton.baml
+C:\Users\gsw09\Desktop\bed_label\Loadcell\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\gsw09\Desktop\bed_label\Loadcell\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\gsw09\Desktop\bed_label\Loadcell\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\gsw09\Desktop\bed_label\Loadcell\SPRS\obj\Release\DotButton.g.cs
+C:\Users\gsw09\Desktop\bed_label\Loadcell\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\gsw09\Desktop\bed_label\Loadcell\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\gsw09\Desktop\bed_label\Loadcell\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\gsw09\Desktop\bed_label\Loadcell\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\gsw09\Desktop\bed_label\Loadcell\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\gsw09\Desktop\bed_label\Loadcell\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\gsw09\Desktop\bed_label\Loadcell\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\gsw09\Desktop\bed_label\Loadcell\SPRS\obj\Release\SPRS.g.resources
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\obj\Release\SPRS.csprojAssemblyReference.cache
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\obj\Release\DotButton.baml
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\obj\Release\xLoginDlg.baml
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\obj\Release\DotButton.g.cs
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\obj\Release\xLoginDlg.g.cs
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\obj\Release\SPRS.exe
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\obj\Release\SPRS.pdb
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\bin\Release\SPRS.exe.config
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\bin\Release\SPRS.exe
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\bin\Release\SPRS.pdb
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\obj\Release\SPRS.g.resources
+C:\Users\가희\Desktop\bed_label\Loadcell\SPRS\obj\Release\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\bin\Release\SPRS.exe.config
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\obj\Release\SPRS.exe
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\obj\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\bin\Release\SPRS.exe
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\bin\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\obj\Release\SPRS.csprojResolveAssemblyReference.cache
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\obj\Release\DotButton.baml
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\obj\Release\xLoginDlg.baml
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\obj\Release\DotButton.g.cs
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\obj\Release\xLoginDlg.g.cs
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\obj\Release\SPRS.g.resources
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\obj\Release\Graph.g.cs
+C:\Users\gsw09\Desktop\BED_label_DB\Loadcell\SPRS\obj\Release\Graph.baml
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\SPRS.csprojAssemblyReference.cache
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\DotButton.baml
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\xLoginDlg.baml
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\DotButton.g.cs
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\Graph.g.cs
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\xLoginDlg.g.cs
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\SPRS.exe
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\SPRS.pdb
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\bin\Release\SPRS.exe.config
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\bin\Release\SPRS.exe
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\bin\Release\SPRS.pdb
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\Graph.baml
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\SPRS.g.resources
+C:\Users\qkrtj\Desktop\새 폴더\SPRS\obj\Release\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\SPRS.csprojAssemblyReference.cache
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\DotButton.baml
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\xLoginDlg.baml
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\DotButton.g.cs
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\Graph.g.cs
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\xLoginDlg.g.cs
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\SPRS.exe
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\SPRS.pdb
+C:\Users\가희\Desktop\bed\SPRS\bin\Release\SPRS.exe.config
+C:\Users\가희\Desktop\bed\SPRS\bin\Release\SPRS.exe
+C:\Users\가희\Desktop\bed\SPRS\bin\Release\SPRS.pdb
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\Graph.baml
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\SPRS.g.resources
+C:\Users\가희\Desktop\bed\SPRS\obj\Release\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\bin\Release\SPRS.exe.config
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\obj\Release\SPRS.exe
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\obj\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\bin\Release\SPRS.exe
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\bin\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\obj\Release\SPRS.csprojResolveAssemblyReference.cache
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\obj\Release\DotButton.baml
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\obj\Release\Graph.baml
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\obj\Release\xLoginDlg.baml
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\obj\Release\DotButton.g.cs
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\obj\Release\Graph.g.cs
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\obj\Release\xLoginDlg.g.cs
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\gsw09\Desktop\새 폴더 (3)\SPRS\obj\Release\SPRS.g.resources
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\bin\Release\SPRS.exe.config
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\bin\Release\SPRS.exe
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\bin\Release\SPRS.pdb
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\SPRS.csprojAssemblyReference.cache
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\DotButton.baml
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\Graph.baml
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\xLoginDlg.baml
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\DotButton.g.cs
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\Graph.g.cs
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\xLoginDlg.g.cs
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\SPRS.g.resources
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\SPRS.exe
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\SPRS.pdb
+C:\Users\qkrtj\Desktop\c#수정중\SPRS\obj\Release\SPRS_Content.g.cs
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\bin\Release\SPRS.exe.config
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\SPRS.exe
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\bin\Release\SPRS.exe
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\bin\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\SPRS.csprojResolveAssemblyReference.cache
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\DotButton.baml
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\Graph.baml
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\xLoginDlg.baml
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\DotButton.g.cs
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\Graph.g.cs
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\xLoginDlg.g.cs
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\SPRS_Content.g.cs
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\SPRS.g.resources
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\CustomerChartControl.g.cs
+C:\Users\gsw09\Desktop\수정중_성연\SPRS\obj\Release\CustomerChartControl.baml
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\bin\Release\SPRS.exe.config
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\SPRS.exe
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\SPRS.csprojResolveAssemblyReference.cache
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\DotButton.baml
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\xLoginDlg.baml
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\CustomerChartControl.g.cs
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\DotButton.g.cs
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\Graph.g.cs
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\xLoginDlg.g.cs
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\SPRS_Content.g.cs
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\bin\Release\SPRS.exe
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\bin\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\CustomerChartControl.baml
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\Graph.baml
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\gsw09\Desktop\침대색칠하기_그래프수정중\SPRS\obj\Release\SPRS.g.resources
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\bin\Release\SPRS.exe.config
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\SPRS.exe
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\SPRS.csprojResolveAssemblyReference.cache
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\DotButton.baml
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\xLoginDlg.baml
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\CustomerChartControl.g.cs
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\Graph.g.cs
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\DotButton.g.cs
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\xLoginDlg.g.cs
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\SPRS_Content.g.cs
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\bin\Release\SPRS.exe
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\bin\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\CustomerChartControl.baml
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\Graph.baml
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\gsw09\Desktop\그래프수정중시간수정중\SPRS\obj\Release\SPRS.g.resources
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\bin\Release\SPRS.exe.config
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\bin\Release\SPRS.exe
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\bin\Release\SPRS.pdb
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\SPRS.csprojAssemblyReference.cache
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\DotButton.baml
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\xLoginDlg.baml
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\CustomerChartControl.g.cs
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\Graph.g.cs
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\DotButton.g.cs
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\xLoginDlg.g.cs
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\SPRS_Content.g.cs
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\CustomerChartControl.baml
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\Graph.baml
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\SPRS.g.resources
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\SPRS.exe
+C:\Users\가희\Desktop\서녕 7시 54분\SPRS\obj\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\bin\Release\SPRS.exe.config
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\SPRS.exe
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\bin\Release\SPRS.exe
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\bin\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\SPRS.csprojResolveAssemblyReference.cache
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\DotButton.baml
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\xLoginDlg.baml
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\CustomerChartControl.g.cs
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\Graph.g.cs
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\DotButton.g.cs
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\xLoginDlg.g.cs
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\SPRS_Content.g.cs
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\CustomerChartControl.baml
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\Graph.baml
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\gsw09\Desktop\190111오후8시\SPRS\obj\Release\SPRS.g.resources
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\bin\Release\SPRS.exe.config
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\SPRS.exe
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\bin\Release\SPRS.exe
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\bin\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\SPRS.csprojResolveAssemblyReference.cache
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\DotButton.baml
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\xLoginDlg.baml
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\CustomerChartControl.g.cs
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\Graph.g.cs
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\DotButton.g.cs
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\xLoginDlg.g.cs
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\SPRS_Content.g.cs
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\CustomerChartControl.baml
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\Graph.baml
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\gsw09\Desktop\여기합칠것\SPRS\obj\Release\SPRS.g.resources
+C:\Users\gsw09\Desktop\BED팀\SPRS\bin\Release\SPRS.exe.config
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\SPRS.exe
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\BED팀\SPRS\bin\Release\SPRS.exe
+C:\Users\gsw09\Desktop\BED팀\SPRS\bin\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\DotButton.baml
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\xLoginDlg.baml
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\CustomerChartControl.g.cs
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\DotButton.g.cs
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\xLoginDlg.g.cs
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\SPRS_Content.g.cs
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\CustomerChartControl.baml
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\Graph.baml
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\SPRS.g.resources
+C:\Users\가희\Desktop\BED팀\SPRS\bin\Release\SPRS.exe.config
+C:\Users\가희\Desktop\BED팀\SPRS\bin\Release\SPRS.exe
+C:\Users\가희\Desktop\BED팀\SPRS\bin\Release\SPRS.pdb
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\SPRS.csprojAssemblyReference.cache
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\DotButton.baml
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\xLoginDlg.baml
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\CustomerChartControl.g.cs
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\Graph.g.cs
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\DotButton.g.cs
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\xLoginDlg.g.cs
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\SPRS_Content.g.cs
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\CustomerChartControl.baml
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\Graph.baml
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\SPRS.g.resources
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\SPRS.exe
+C:\Users\가희\Desktop\BED팀\SPRS\obj\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\SPRS.csprojAssemblyReference.cache
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\gsw09\Desktop\BED팀\SPRS\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\SPRS.csproj.CopyComplete
+C:\Users\gsw09\Desktop\BED팀\SPRS\bin\Release\LiveCharts.dll
+C:\Users\gsw09\Desktop\BED팀\SPRS\bin\Release\LiveCharts.Wpf.dll
+C:\Users\gsw09\Desktop\BED팀\SPRS\bin\Release\LiveCharts.pdb
+C:\Users\gsw09\Desktop\BED팀\SPRS\bin\Release\LiveCharts.xml
+C:\Users\gsw09\Desktop\BED팀\SPRS\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\gsw09\Desktop\BED팀\SPRS\bin\Release\LiveCharts.Wpf.xml
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\MulitBeds.baml
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\Graph.g.cs
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\MulitBeds.g.cs
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\web.baml
+C:\Users\gsw09\Desktop\BED팀\SPRS\obj\Release\web.g.cs
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\bin\Release\SPRS.exe.config
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\bin\Release\SPRS.exe
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\bin\Release\SPRS.pdb
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\bin\Release\LiveCharts.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\bin\Release\LiveCharts.Wpf.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\bin\Release\LiveCharts.pdb
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\bin\Release\LiveCharts.xml
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\bin\Release\LiveCharts.Wpf.xml
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\SPRS.csprojAssemblyReference.cache
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\DotButton.baml
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\MulitBeds.baml
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\web.baml
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\xLoginDlg.baml
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\CustomerChartControl.g.cs
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\DotButton.g.cs
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\Graph.g.cs
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\MulitBeds.g.cs
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\web.g.cs
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\xLoginDlg.g.cs
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\SPRS_Content.g.cs
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\CustomerChartControl.baml
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\Graph.baml
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\SPRS.g.resources
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\SPRS.csproj.CopyComplete
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\SPRS.exe
+C:\Users\qkrtj\OneDrive\바탕 화면\BED팀\BED팀\SPRS\obj\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\bin\Release\SPRS.exe.config
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\bin\Release\SPRS.exe
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\bin\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\bin\Release\LiveCharts.dll
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\bin\Release\LiveCharts.Wpf.dll
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\bin\Release\LiveCharts.pdb
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\bin\Release\LiveCharts.xml
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\bin\Release\LiveCharts.Wpf.xml
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\SPRS.csprojAssemblyReference.cache
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\DotButton.baml
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\MulitBeds.baml
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\web.baml
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\xLoginDlg.baml
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\CustomerChartControl.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\DotButton.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\Graph.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\MulitBeds.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\web.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\xLoginDlg.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\SPRS_Content.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\CustomerChartControl.baml
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\Graph.baml
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\SPRS.g.resources
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\SPRS.csproj.CopyComplete
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\SPRS.exe
+C:\Users\gsw09\Desktop\왜가리\BED팀\BED팀\SPRS\obj\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\bin\Release\SPRS.exe.config
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\bin\Release\SPRS.exe
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\bin\Release\SPRS.pdb
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\bin\Release\LiveCharts.dll
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\bin\Release\LiveCharts.Wpf.dll
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\bin\Release\LiveCharts.pdb
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\bin\Release\LiveCharts.xml
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\bin\Release\LiveCharts.Wpf.xml
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\SPRS.csprojAssemblyReference.cache
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\DotButton.baml
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\MulitBeds.baml
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\web.baml
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\xLoginDlg.baml
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\CustomerChartControl.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\DotButton.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\Graph.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\MulitBeds.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\web.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\xLoginDlg.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\SPRS_Content.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\CustomerChartControl.baml
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\Graph.baml
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\SPRS.g.resources
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\SPRS.csproj.CopyComplete
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\SPRS.exe
+C:\Users\gsw09\Desktop\왜가리\BED팀\SPRS\obj\Release\SPRS.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\bin\Release\SPRS.exe.config
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\bin\Release\SPRS.exe
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\bin\Release\SPRS.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\bin\Release\LiveCharts.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\bin\Release\LiveCharts.Wpf.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\bin\Release\LiveCharts.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\bin\Release\LiveCharts.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\bin\Release\LiveCharts.Wpf.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\SPRS.csprojAssemblyReference.cache
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\DotButton.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\MulitBeds.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\web.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\xLoginDlg.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\CustomerChartControl.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\DotButton.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\Graph.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\MulitBeds.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\web.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\xLoginDlg.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\SPRS_Content.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\CustomerChartControl.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\Graph.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\SPRS.g.resources
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\SPRS.csproj.CopyComplete
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\SPRS.exe
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전\SPRS\obj\Release\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Release\x86\CefSharp.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Release\x86\CefSharp.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Release\x86\CefSharp.Wpf.XML
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Release\x64\CefSharp.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Release\x64\CefSharp.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Release\x64\CefSharp.Wpf.XML
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Release\SPRS.exe.config
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Release\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Release\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Release\AForge.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Release\AForge.Video.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Release\LiveCharts.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Release\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Release\AForge.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Release\AForge.Video.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Release\LiveCharts.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Release\LiveCharts.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Release\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\AnalogMeter.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\DotButton.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\LoadCell_Charts.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\MulitBeds.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\DotButton.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\LoadCell_Charts.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\SPRS_Main.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\SPRS.g.resources
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Release\SPRS.pdb

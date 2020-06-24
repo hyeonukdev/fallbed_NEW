@@ -1,0 +1,9 @@
+<SPRS desc="Sleeping Posture Recording Device">
+  <SerialPort Port="COM5" BaudRate="9600" Parity="None" DataBits="8" StopBits="One" Handshake="None" />
+  <Loadcells>
+    <Loadcell pos="UpLeft" tare="-831476.938405797" unit="-26900.0351562108" />
+    <Loadcell pos="UpRight" tare="-413713.994565218" unit="-20769.8308447419" />
+    <Loadcell pos="DownLeft" tare="-469833.346014493" unit="-22795.8332192468" />
+    <Loadcell pos="DownRight" tare="-702731.844202898" unit="-16514.7924050951" />
+  </Loadcells>
+</SPRS>

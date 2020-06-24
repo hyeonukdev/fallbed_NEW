@@ -1,0 +1,1256 @@
+C:\Users\user\pjkim\Loadcell\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\pjkim\Loadcell\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\pjkim\Loadcell\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Debug\UnitMassDlg.baml
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Debug\UnitMassDlg.g.cs
+C:\Users\user\pjkim\Loadcell\SPRS\obj\Debug\SPRS.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\web.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\xLoginDlg.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\CustomerChartControl.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\Graph.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\web.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\xLoginDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\SPRS_Content.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\CustomerChartControl.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\Graph.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\SPRS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\LoadCell_Charts.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전\SPRS\obj\Debug\LoadCell_Charts.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\SPRS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\LoadCell_Charts.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\web.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\xLoginDlg.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\CustomerChartControl.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\LoadCell_Charts.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\web.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\xLoginDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\SPRS_Content.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\CustomerChartControl.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\SPRS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\LoadCell_Charts.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\web.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\xLoginDlg.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\CustomerChartControl.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\LoadCell_Charts.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\web.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\xLoginDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\SPRS_Content.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\CustomerChartControl.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\bin\Debug\AForge.dll
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\bin\Debug\AForge.Video.dll
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\bin\Debug\AForge.xml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\bin\Debug\AForge.Video.xml
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\bin\Debug\x86\CefSharp.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\bin\Debug\x86\CefSharp.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\bin\Debug\x86\CefSharp.Wpf.XML
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\bin\Debug\x64\CefSharp.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\bin\Debug\x64\CefSharp.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\최종버전_차트추가2\SPRS\bin\Debug\x64\CefSharp.Wpf.XML
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\bin\Debug\x86\CefSharp.Wpf.dll
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\bin\Debug\x86\CefSharp.Wpf.pdb
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\bin\Debug\x86\CefSharp.Wpf.XML
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\bin\Debug\x64\CefSharp.Wpf.dll
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\bin\Debug\x64\CefSharp.Wpf.pdb
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\bin\Debug\x64\CefSharp.Wpf.XML
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\bin\Debug\SPRS.exe
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\bin\Debug\SPRS.pdb
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\bin\Debug\AForge.dll
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\bin\Debug\AForge.Video.dll
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\bin\Debug\AForge.xml
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\bin\Debug\AForge.Video.xml
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\SPRS.csprojAssemblyReference.cache
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\DotButton.baml
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\LoadCell_Charts.baml
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\web.baml
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\xLoginDlg.baml
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\CustomerChartControl.g.cs
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\LoadCell_Charts.g.cs
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\web.g.cs
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\xLoginDlg.g.cs
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\SPRS_Content.g.cs
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\CustomerChartControl.baml
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\SPRS.exe
+C:\Users\lego7\Desktop\최종버전_카메라추가\SPRS\obj\Debug\SPRS.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\bin\Debug\x86\CefSharp.Wpf.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\bin\Debug\x86\CefSharp.Wpf.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\bin\Debug\x86\CefSharp.Wpf.XML
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\bin\Debug\x64\CefSharp.Wpf.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\bin\Debug\x64\CefSharp.Wpf.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\bin\Debug\x64\CefSharp.Wpf.XML
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\bin\Debug\SPRS.exe
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\bin\Debug\SPRS.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\bin\Debug\AForge.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\bin\Debug\AForge.Video.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\bin\Debug\AForge.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\bin\Debug\AForge.Video.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\SPRS.csprojAssemblyReference.cache
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\DotButton.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\LoadCell_Charts.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\LoadCell_Charts.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\SPRS.exe
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\최종버전_카메라추가\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\bin\Debug\x86\CefSharp.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\bin\Debug\x86\CefSharp.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\bin\Debug\x86\CefSharp.Wpf.XML
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\bin\Debug\x64\CefSharp.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\bin\Debug\x64\CefSharp.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\bin\Debug\x64\CefSharp.Wpf.XML
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\bin\Debug\AForge.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\bin\Debug\AForge.Video.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\bin\Debug\AForge.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\bin\Debug\AForge.Video.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\SPRS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\LoadCell_Charts.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\LoadCell_Charts.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\bin\Debug\x86\CefSharp.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\bin\Debug\x86\CefSharp.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\bin\Debug\x86\CefSharp.Wpf.XML
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\bin\Debug\x64\CefSharp.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\bin\Debug\x64\CefSharp.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\bin\Debug\x64\CefSharp.Wpf.XML
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\bin\Debug\AForge.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\bin\Debug\AForge.Video.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\bin\Debug\AForge.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\bin\Debug\AForge.Video.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\LoadCell_Charts.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\LoadCell_Charts.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed2\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\bin\Debug\x86\CefSharp.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\bin\Debug\x86\CefSharp.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\bin\Debug\x86\CefSharp.Wpf.XML
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\bin\Debug\x64\CefSharp.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\bin\Debug\x64\CefSharp.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\bin\Debug\x64\CefSharp.Wpf.XML
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\bin\Debug\AForge.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\bin\Debug\AForge.Video.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\bin\Debug\AForge.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\bin\Debug\AForge.Video.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\SPRS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\LoadCell_Charts.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\LoadCell_Charts.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed3\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Debug\x86\CefSharp.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Debug\x86\CefSharp.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Debug\x86\CefSharp.Wpf.XML
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Debug\x64\CefSharp.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Debug\x64\CefSharp.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Debug\x64\CefSharp.Wpf.XML
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Debug\AForge.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Debug\AForge.Video.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Debug\AForge.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Debug\AForge.Video.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\LoadCell_Charts.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\LoadCell_Charts.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed4\SPRS\obj\Debug\SPRS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\bin\Debug\x86\CefSharp.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\bin\Debug\x86\CefSharp.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\bin\Debug\x86\CefSharp.Wpf.XML
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\bin\Debug\x64\CefSharp.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\bin\Debug\x64\CefSharp.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\bin\Debug\x64\CefSharp.Wpf.XML
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\bin\Debug\AForge.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\bin\Debug\AForge.Video.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\bin\Debug\AForge.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\bin\Debug\AForge.Video.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\LoadCell_Charts.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\UL_Chart.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\LoadCell_Charts.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\OnlyCharts.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\UL_Chart.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\OnlyCharts.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed5\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\bin\Debug\x86\CefSharp.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\bin\Debug\x86\CefSharp.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\bin\Debug\x86\CefSharp.Wpf.XML
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\bin\Debug\x64\CefSharp.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\bin\Debug\x64\CefSharp.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\bin\Debug\x64\CefSharp.Wpf.XML
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\bin\Debug\AForge.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\bin\Debug\AForge.Video.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\bin\Debug\AForge.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\bin\Debug\AForge.Video.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\LoadCell_Charts.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\OnlyCharts.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\UL_Chart.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\LoadCell_Charts.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\OnlyCharts.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\UL_Chart.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\DL_Chart.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\DR_Chart.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\UR_Chart.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\DL_Chart.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\DR_Chart.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\UR_Chart.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed6\SPRS\obj\Debug\SPRS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\LoadCell_Charts.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\OnlyCharts.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\LoadCell_Charts.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\OnlyCharts.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed7\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\SPRS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\LoadCell_Charts.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\OnlyCharts.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\LoadCell_Charts.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\OnlyCharts.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed8\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\LoadCell_Charts.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\OnlyCharts.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\LoadCell_Charts.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\OnlyCharts.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed8_한페이지에 차트합친거_태스크비동기구현\SPRS\obj\Debug\SPRS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\LoadCell_Charts.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\OnlyCharts.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\LoadCell_Charts.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\OnlyCharts.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\bin\Debug\WPFToolkit.dll
+C:\Users\user\Desktop\bed\프로그램\fallbed9.0_차트좀더자연스럽게\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\bin\Debug\WPFToolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\LoadCell_Charts.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\OnlyCharts.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\LoadCell_Charts.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\OnlyCharts.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_안예쁨\SPRS\obj\Debug\SPRS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\bin\Debug\WPFToolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\LoadCell_Charts.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\OnlyCharts.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\LoadCell_Charts.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\OnlyCharts.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\현재\fallbed9.0.1_wpfchartcontrol연동성공_스타일링진행중\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\bin\Debug\WPFToolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\OnlyCharts.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\OnlyCharts.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\현재\fallbed9.0.2_wpfchartcontrol연동성공_스타일링하나완료\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\bin\Debug\WPFToolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\OnlyCharts.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\OnlyCharts.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.0.3_wpfchartcontrol\SPRS\obj\Debug\SPRS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\bin\Debug\Renci.SshNet.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\bin\Debug\WPFToolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\bin\Debug\Renci.SshNet.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\OnlyCharts.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\OnlyCharts.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.2_wpfchartcontrol\SPRS\obj\Debug\SPRS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\bin\Debug\Renci.SshNet.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\bin\Debug\WPFToolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\bin\Debug\Renci.SshNet.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\OnlyCharts.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\OnlyCharts.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\현재\fallbed9.3_db저장일단됨\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\bin\Debug\Renci.SshNet.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\bin\Debug\WPFToolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\bin\Debug\Renci.SshNet.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\OnlyCharts.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\OnlyCharts.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\현재\fallbed9.4_db추가\SPRS\obj\Debug\SPRS.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\SPRS.csprojAssemblyReference.cache
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\DotButton.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\WeightChart.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\OnlyCharts.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\WeightChart.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\OnlyCharts.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\SPRS.exe
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\SPRS.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\SPRS.exe
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\SPRS.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\Google.Protobuf.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\MySql.Data.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\Renci.SshNet.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\WPFToolkit.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\Google.Protobuf.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\MySql.Data.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\Renci.SshNet.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\LRChart.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\논문_침대\프로그램\fallbed9.5.0_db추가_테이블2개\SPRS\obj\Debug\LRChart.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\bin\Debug\Renci.SshNet.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\bin\Debug\WPFToolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\bin\Debug\Renci.SshNet.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\LRChart.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\WeightChart.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\OnlyCharts.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\LRChart.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\WeightChart.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\OnlyCharts.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\현재\fallbed9.6_무게차트_LR프레임_일시정지추가\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\bin\Debug\Renci.SshNet.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\bin\Debug\WPFToolkit.dll
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\bin\Debug\Renci.SshNet.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\SPRS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\LRChart.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\WeightChart.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\OnlyCharts.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\LRChart.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\WeightChart.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\OnlyCharts.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\bed\현재\fallbed9.7_LR차트완료\SPRS\obj\Debug\SPRS.pdb
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\SPRS.exe
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\SPRS.pdb
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\Renci.SshNet.dll
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\WPFToolkit.dll
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\Renci.SshNet.xml
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\DotButton.baml
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\LRChart.baml
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\WeightChart.baml
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\OnlyCharts.baml
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\LRChart.g.cs
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\WeightChart.g.cs
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\OnlyCharts.g.cs
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.exe
+C:\Users\user\Desktop\2학기\설계\실전문제연구(침대)\bed\현재\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\SPRS.exe
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\SPRS.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\Google.Protobuf.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\MySql.Data.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\Renci.SshNet.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\WPFToolkit.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\Google.Protobuf.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\MySql.Data.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\Renci.SshNet.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.csprojAssemblyReference.cache
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\DotButton.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\LRChart.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\WeightChart.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\OnlyCharts.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\LRChart.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\WeightChart.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\OnlyCharts.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.exe
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\SPRS.exe.config
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\SPRS.exe
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\SPRS.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\Google.Protobuf.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\MySql.Data.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\Renci.SshNet.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\WPFToolkit.dll
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\Google.Protobuf.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\MySql.Data.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\Renci.SshNet.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.csprojAssemblyReference.cache
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\AnalogMeter.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\DotButton.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\MulitBeds.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\LRChart.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\WeightChart.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\OnlyCharts.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\xSerialPortDlg.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\AnalogMeter.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\DotButton.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\MulitBeds.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\LRChart.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\WeightChart.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\OnlyCharts.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS_Main.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\xSerialPortDlg.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS_Main.baml
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.g.resources
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.csproj.CoreCompileInputs.cache
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.exe
+C:\Users\lego7\Desktop\NaverCloud\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.pdb
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\SPRS.exe.config
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\SPRS.exe
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\SPRS.pdb
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\BouncyCastle.Crypto.dll
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\Google.Protobuf.dll
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.dll
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.Wpf.dll
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\MySql.Data.dll
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\Renci.SshNet.dll
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\WPFToolkit.dll
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\Google.Protobuf.xml
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.pdb
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.xml
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.Wpf.pdb
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\LiveCharts.Wpf.xml
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\MySql.Data.xml
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\Renci.SshNet.xml
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.csprojAssemblyReference.cache
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\AnalogMeter.baml
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\DotButton.baml
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\MulitBeds.baml
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\LRChart.baml
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\WeightChart.baml
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\OnlyCharts.baml
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SensorValuePerKgDlg.baml
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\xSerialPortDlg.baml
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\AnalogMeter.g.cs
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\DotButton.g.cs
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\MulitBeds.g.cs
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\LRChart.g.cs
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\WeightChart.g.cs
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\OnlyCharts.g.cs
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SensorValuePerKgDlg.g.cs
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS_Main.g.cs
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\xSerialPortDlg.g.cs
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\GeneratedInternalTypeHelper.g.cs
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS_MarkupCompile.cache
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS_MarkupCompile.lref
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS_Main.baml
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.g.resources
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.csproj.CopyComplete
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.exe
+N:\. Personal_folder\hyeonukdev\19년 3학년 2학기\설계및프로젝트심화II\침대프로그램\fallbed_ver1.9.8_해상도수정\SPRS\obj\Debug\SPRS.pdb
